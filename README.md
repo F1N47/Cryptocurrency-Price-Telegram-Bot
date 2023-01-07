@@ -11,3 +11,7 @@ The bot currently supports the following commands:
 **/top** - top 25 cryptocurrencies by market price;
 
 **/marketcap** - top 25 cryptocurrencies by market capitalization;
+___________________________________________________________________________________________________
+**config.ini**
+
+The Telegram token is entered into the **config.ini** file. There you can also find more flexible settings for managing the telegram bot.
