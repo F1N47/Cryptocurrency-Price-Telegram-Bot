@@ -4,7 +4,7 @@ import datetime
 import configparser
 
 config = configparser.ConfigParser()
-config.read('conf/config.ini')
+config.read('config.ini')
 
 telebot_token = config['API']['telebot_token']
 price_precision = config['Price']['price_precision']
